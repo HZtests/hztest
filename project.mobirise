@@ -1295,13 +1295,13 @@
             "paddingBottom": "2",
             "images": [
               {
-                "caption": "Type caption here",
+                "caption": "This is a custom deck under construction",
                 "thumb": "@PROJECT_PATH@/assets/images/12227084-639514976151274-4519413784030329164-n-2000x1500-54-800x600-76.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12227084-639514976151274-4519413784030329164-n-2000x1500-54.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
+                "caption": "This is the finished deck",
                 "thumb": "@PROJECT_PATH@/assets/images/12189832-639514999484605-9094340403833504494-n-2000x1500-62-800x600-96.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12189832-639514999484605-9094340403833504494-n-2000x1500-62.jpg",
                 "active": true
