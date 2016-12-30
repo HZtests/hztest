@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Henry Test Site Mobirise",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -226,7 +226,7 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
               "success": "Thanks for filling out form! We will contact you shortly."
             },
@@ -769,9 +769,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -1425,9 +1425,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -1796,9 +1796,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -2198,9 +2198,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -2593,9 +2593,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -2988,9 +2988,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -3359,9 +3359,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -3857,9 +3857,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
@@ -4276,9 +4276,9 @@
           },
           "title": "Contact Us",
           "form": {
-            "action": "jdnmi@hotmail.com",
+            "action": "contact@hzscontractor.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will contact you shortly."
             },
             "fields": {
               "name": {
