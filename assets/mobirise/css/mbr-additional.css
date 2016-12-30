@@ -225,6 +225,7 @@
 #header1-17 P {
   font-size: 18px;
   color: #efefef;
+  text-align: center;
 }
 #msg-box3-18 .mbr-header .mbr-header__text {
   text-align: center;
@@ -525,6 +526,7 @@
 #header1-2c P {
   font-size: 18px;
   color: #efefef;
+  text-align: left;
 }
 #msg-box3-2d .mbr-header .mbr-header__text {
   text-align: center;

@@ -473,7 +473,7 @@
                 "active": false
               },
               {
-                "caption": "These are filled with concrete",
+                "caption": "These are filled with concrete.",
                 "thumb": "@PROJECT_PATH@/assets/images/14962780-812595632176540-8085845471599357191-n-2000x1500-92-800x600-10.jpg",
                 "image": "@PROJECT_PATH@/assets/images/14962780-812595632176540-8085845471599357191-n-2000x1500-92.jpg",
                 "active": false
@@ -1065,7 +1065,7 @@
                 "active": false
               },
               {
-                "caption": "The completed deck Then there are what we do that make our decks better than the rest",
+                "caption": "The completed deck Then there are what we do that make our decks better than the rest.",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20161210-160705-2000x1500-42-800x600-88.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20161210-160705-2000x1500-42.jpg",
                 "active": false
@@ -1569,7 +1569,8 @@
             },
             "P": {
               "font-size": "18px",
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "center"
             }
           },
           "_anchor": "header1-17",
@@ -1654,7 +1655,7 @@
             "paddingBottom": 3,
             "images": [
               {
-                "caption": "he project starts with removal of the old flat roof",
+                "caption": "The project starts with removal of the old flat roof",
                 "thumb": "@PROJECT_PATH@/assets/images/3210934-original-2000x1500-10-800x600-22.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3210934-original-2000x1500-10.jpg",
                 "active": false
@@ -1666,7 +1667,7 @@
                 "active": false
               },
               {
-                "caption": "The new roof line is complete",
+                "caption": "The new roof line is complete.",
                 "thumb": "@PROJECT_PATH@/assets/images/3210933-original-2000x1500-18-800x600-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3210933-original-2000x1500-18.jpg",
                 "active": false
@@ -2025,19 +2026,19 @@
             "paddingBottom": "1",
             "images": [
               {
-                "caption": "Type caption here",
+                "caption": "This is the finished TV area",
                 "thumb": "@PROJECT_PATH@/assets/images/1781951-539871012782338-4128303130971148588-n-2000x1500-61-800x600-70.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1781951-539871012782338-4128303130971148588-n-2000x1500-61.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
+                "caption": "This is the finished area for a pool table.",
                 "thumb": "@PROJECT_PATH@/assets/images/10369740-539870982782341-7276739987495486826-n-2000x1500-41-800x600-63.jpg",
                 "image": "@PROJECT_PATH@/assets/images/10369740-539870982782341-7276739987495486826-n-2000x1500-41.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
+                "caption": "This is a bar area to the right",
                 "thumb": "@PROJECT_PATH@/assets/images/image00004-2000x2222-54-800x888-56.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image00004-2000x2222-54.jpg",
                 "active": true
@@ -2433,7 +2434,7 @@
                 "active": false
               },
               {
-                "caption": "The use of metal studs and framing is required in commercial buildings",
+                "caption": "The use of metal studs and framing is required in commercial buildings.",
                 "thumb": "@PROJECT_PATH@/assets/images/12278800-645646238871481-3926332177944371845-n-2000x1500-55-800x600-80.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12278800-645646238871481-3926332177944371845-n-2000x1500-55.jpg",
                 "active": false
@@ -2834,7 +2835,7 @@
                 "active": false
               },
               {
-                "caption": "Then aluminum rails were installed",
+                "caption": "Then aluminum rails were installed.",
                 "thumb": "@PROJECT_PATH@/assets/images/11535678-590558334380272-1774999773032154743-n-2000x1500-71-800x600-48.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11535678-590558334380272-1774999773032154743-n-2000x1500-71.jpg",
                 "active": false
@@ -3229,7 +3230,7 @@
                 "active": false
               },
               {
-                "caption": "A special barrier was around the Sky Lights and in the valley",
+                "caption": "A special barrier was around the Sky Lights and in the valley.",
                 "thumb": "@PROJECT_PATH@/assets/images/2071531-orignal-2000x1500-58-800x600-63.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2071531-orignal-2000x1500-58.jpg",
                 "active": false
@@ -3503,7 +3504,8 @@
             },
             "P": {
               "font-size": "18px",
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-2c",
@@ -3651,7 +3653,7 @@
                 "active": false
               },
               {
-                "caption": "The new porch with new windows and new siding",
+                "caption": "The new porch with new windows and new siding.",
                 "thumb": "@PROJECT_PATH@/assets/images/11098223-570497053053067-2722275243162196108-n-2000x1500-12-800x600-57.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11098223-570497053053067-2722275243162196108-n-2000x1500-12.jpg",
                 "active": true
@@ -4086,7 +4088,7 @@
             "paddingBottom": 3,
             "images": [
               {
-                "caption": "Sheetrock repairs",
+                "caption": "Sheetrock repairs.",
                 "thumb": "@PROJECT_PATH@/assets/images/1775732-original-2000x1500-93-800x600-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1775732-original-2000x1500-93.jpg",
                 "active": false
